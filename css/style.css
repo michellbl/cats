@@ -1,0 +1,9 @@
+/******
+Configurações extras para o site
+*******/
+
+
+body {
+    background: url(../img/cat-98359_1920.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
